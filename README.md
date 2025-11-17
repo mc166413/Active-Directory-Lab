@@ -47,5 +47,3 @@ These 8 screenshots fully demonstrate DC promotion, DNS integration, domain join
 Built 100% from scratch.
 
 Ready for junior sysadmin / IT support roles.
-
-Feel free to reach out – happy to walk through any part live!

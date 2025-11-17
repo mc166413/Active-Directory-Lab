@@ -9,8 +9,6 @@ Fully functional AD DS lab built from scratch in VirtualBox (Host-Only networkin
 - Windows 10 client cleanly joined to the domain
 - Group Policy enforcement (forced desktop wallpaper)
 
-## Proof Screenshots
-
 ## Proof Screenshots (November 16, 2025)
 
 1. **Client login screen showing only the domain user**  
